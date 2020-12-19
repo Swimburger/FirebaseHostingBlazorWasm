@@ -1,0 +1,5 @@
+{
+  "projects": {
+    "default": "blazor-wasm-sample2"
+  }
+}
